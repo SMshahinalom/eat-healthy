@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.haed{
+    display: flex;
+    margin-bottom: 300px;
+}
+.hafe{
+    width: 50%;
+}
+.hafe img{
+    width: 40%;
+    position: absolute;
+}
+.hafe h1{
+    margin-top: 120px;
+    font-size: 60px;
+    margin-bottom: 50px;
+    color: #575757;
+}
+span{
+    color:#FBA24F;
+}
+.hafe p{
+    color: #828282;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.bottom{
+    background-image: linear-gradient(#FBA24F,#FF1E1E);
+    padding: 15px 45px;
+    border-radius: 25px;
+    text-decoration: none;
+    color:#fff;
+}
+.gap{
+    padding-left: 10%;
+}
+.bg{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    height: 500px;
+}
+.mb{
+    margin-bottom: 100px;
+}
+.img{
+    padding-left: 5%;
+}
+.text{
+    text-align: center;
+}
+.text h1{
+    font-size: 36px;
+    color: #767677;
+    margin-bottom: 40px;
+}
+.text p{
+    font-size: 18px;
+    color: #767767;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.box-text{
+        height: 500px;
+        width: 600px;
+        margin-left: 70px;
+        box-shadow: 0px 0px 20px 2px;
+        border-radius: 15px;
+}
+.box-text2{
+        height: 500px;
+        width: 600px;
+        margin-left: 20px;
+        box-shadow: 0px 0px 20px 2px;
+        border-radius: 15px;
+}
+
+.ih_im{
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 270px;
+}
+.ih_im2{
+    margin-top: 20px;
+    margin-left:30px;
+    margin-right: 90px;
+    height: 270px;
+}
+.img_text{
+    margin-top: 300px;
+    margin-left: 30px;
+}
+.img_text h1{
+    margin-bottom: 20px;
+    font-size: 28px;
+  
+}
+.thatin{
+    margin-left: 180px;
+}
+.thatin h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.div1{
+    width: 80%;
+    margin-left: 150px;
+    padding: 50px 0px;
+    box-shadow: 0px 0px 20px 2px;
+    border-radius: 15px;
+    margin-top: -140px;
+}
+footer{
+    text-align: center;
+    margin-top: -160px;
+    background-color: #0B0D17;
+    padding: 80px 0px;
+}
+footer h1{
+    font-size: 30px;
+    margin-bottom: 18px;
+    color: #5B5B5B;
+}
+footer p{
+    color: #fff;
+}
